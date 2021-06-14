@@ -1,0 +1,80 @@
+body{
+  background-color:#FFF4D5;
+  margin: 115px ;
+}
+h1{
+  margin-top: 95px;
+}
+
+.perguntas h1{
+  margin-top: 25px;
+}
+
+h2{
+  margin-top: 95px;
+  margin-bottom: 75px;
+}
+.button {
+    font-weight: 500;
+    padding-left: 1.4rem;
+    padding-right: 1.4rem;
+  }
+
+.ajustes{
+  margin-top: 25px;
+  margin-left: 100px;
+  margin-bottom: 25px;
+}
+.ajustes2{
+  margin-top: 25px;
+  margin-left: 75px;
+}
+
+.ajustestLateral{
+  margin-right: 25px;
+}
+
+  .button-neutro {
+  color: var(--preto);
+  background-color: var(--fundo);
+  border-color: var(--preto);
+  }
+
+  .button-azul {
+    color: var(--preto);
+    background-color: var(--azul);
+    border-color: var(--azul);
+  }
+
+  .button-vermelho {
+    color: var(--preto);
+    background-color: var(--vermelho);
+    border-color: var(--vermelho);
+  }
+
+  .button-amarelo{
+    color: var(--preto);
+    background-color: var(--amarelo);
+    border-color: var(--amarelo);
+  }
+
+  .button-verde{
+    color: var(--preto);
+    background-color: var(--verde);
+    border-color: var(--verde);
+  }
+  
+  .button-primary:hover {
+    background-color: var(--preto);
+    border-color: var(--primary-dark);
+  }
+  
+  .button-primary-outline {
+    border-color: var(--primary);
+    color: var(--primary);
+  }
+  
+  .button-primary-outline:hover {
+    background-color: var(--primary-dark);
+    border-color: var(--primary-dark);
+  }
